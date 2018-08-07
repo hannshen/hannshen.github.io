@@ -1,0 +1,68 @@
+body {
+  font-family: Arial;
+  line-height: 1.4em;
+}
+
+article {
+  max-width: 10px;
+  margin: 0 auto;
+}
+
+#skytrax, img {
+	width:80%;
+	height:50%;
+}
+
+#id {
+	background-color: black;
+	color: white;
+}
+
+header {
+	font-family: lucida-console;
+	color: navy;
+}
+
+.rank {
+	font-size: 14
+} 
+
+
+
+body {
+    background: linear-gradient(lightblue, lightgrey, white);
+}
+
+h2 {
+    color: #2B4021;
+    font-family: Acme, sans-serif;
+    font-size: 28px;
+}
+
+img {
+	width: 45%;
+	height:25%;
+	border-radius: 25px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+section {
+	background-color: white;
+	margin:33px;
+	padding: 15px;
+	border:1px ridge black;
+}
+
+
+
+
+
+
+
+
+
+
